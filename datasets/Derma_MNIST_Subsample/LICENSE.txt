@@ -1,0 +1,5 @@
+Subsample of original dataset:
+
+2020-2024 MedMNIST Team, https://medmnist.com/, https://doi.org/10.5281/zenodo.10519652
+Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)
+
